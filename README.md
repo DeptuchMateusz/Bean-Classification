@@ -15,7 +15,7 @@ Głównym celem projektu jest stworzenie modelu uczenia maszynowego, który będ
 
 ## Autorzy:
 - Zofia Kamińska
-- Mateusza Deptucha
+- Mateusz Deptuch
 
 ## Kontakt:
 - @kaminskaz (github)
