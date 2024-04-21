@@ -1,3 +1,12 @@
 # Feedback
 - brak opisów co dany wykres przedstawia i wniosków płynących z nich
 - brak wniosków jaki model/modele ostatecznie wybraliście i czemu te są najlepsze, lub chociaż które są lepsze od innych
+- Za dużo slajdów na prezentacji
+- Nie powinno być kodu na prezentacjach
+- dodac cel/motywacje w prezentacji
+- moze cos dodac o tym, jakie kolumny macie (jakie te cechy fizyczne - przyklady)
+- w jaki sposob bombay odstaje od reszty?
+- moze wspomniec, jakie kolumny usunieto (nie wiem)
+- slajd 11 troche slabo czytelny, jesli tak zostawicie to na pewno warto slownie bardziej wyjasnic, co tam jest
+- warto dodac jakies podsumowanie: jaki model ostatecznie wypadl najlepiej i z jakimi paramatrami
+- czego niestandordowego nauczyliście się dzięki temu projektowi???
